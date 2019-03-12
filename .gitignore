@@ -1,0 +1,49 @@
+# [begin] exclude all files
+
+*
+
+# [end] exclude all files
+
+# [begin] include directories
+
+!/**/
+
+# [end] include directories
+
+# [begin] include files by extension
+
+!*.c
+!*.h
+!*.cpp
+!*.cxx
+!*.rc
+!*.rc2
+!*.filters
+!*.sln
+!*.vcxproj
+!*.vcproj
+!*.uc
+!*.vsprops
+!*.rules
+!*.cs
+!*.csproj
+!*.resx
+!*.xaml
+!*.bat
+!*.fla
+!*.as
+!*.inl
+!*.ico
+!*.asm
+!*.csv
+!*.json
+!*.cc
+
+# [end] include files by extension
+
+# [begin] include files by name
+
+!.gitignore
+ 
+
+# [end] include files by name
